@@ -1,0 +1,4 @@
+rencana membuat website fotografi yang didalamnya berupa:
+-memuat portofolio hasil kerja 
+-memuat hasil kerja dimana akan terhubung ke halaman yang lain
+-didalamnya ada deskripsi gambar dan jenis kamera
