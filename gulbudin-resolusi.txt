@@ -1,7 +1,9 @@
 Gulbudin-Resolusi
 -konsisten belajar pemograman untuk web developer
+-mempelajari CSS SASS
 -mempelajari CSS Framework tailwind
 -mempelajari CSS Pre-processor
 -mempelajari node.js
 -mempelajari javascript modern
 -membuat proyek web sederhana untuk menambah pemahaman
+-mempelajari pemograman secara mendalam 
