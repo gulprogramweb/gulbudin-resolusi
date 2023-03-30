@@ -1,7 +1,11 @@
 rencana membuat website fotografi yang didalamnya berupa:
 -memuat portofolio hasil kerja 
 -memuat hasil kerja dimana akan terhubung ke halaman yang lain
+  .halaman berisi galeri foto
 -didalamnya ada deskripsi gambar dan jenis kamera
 -akan dibuat responsive dan juga memiliki aksesibilitas yang baik
 -akan dihosting atau dirilis ke internet
 -semua dibuat menggunakan HTML CSS & Javascript
+  .CSS Framework tailwind
+  .vue
+  .nodejs
