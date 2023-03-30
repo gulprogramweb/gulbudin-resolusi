@@ -5,3 +5,6 @@ rencana membuat website fotografi yang didalamnya berupa:
 -akan dibuat responsive dan juga memiliki aksesibilitas yang baik
 -akan dihosting atau dirilis ke internet
 -semua dibuat menggunakan HTML CSS & Javascript
+  .CSS Framework tailwind
+  .vue
+  .nodejs
